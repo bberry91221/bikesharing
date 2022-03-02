@@ -1,2 +1,2 @@
 # bikesharing
-Data for Des Moines bikesharing venture with Kate
+Data from New York City to use in Des Moines bikesharing venture with Kate
